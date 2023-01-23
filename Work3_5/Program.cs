@@ -30,4 +30,5 @@ while (true)
     }
     Console.ReadLine();
 }
+Console.WriteLine("Приложение остановлено.");
 Console.ReadLine();
